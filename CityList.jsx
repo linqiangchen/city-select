@@ -2,7 +2,7 @@ import React, { useState, useRef, memo, useEffect } from 'react';
 import List from './component/list'
 import AppScroll from './component/AppScroll'
 import cityList from './city'
-import './style/common.scss'
+import './style/common.css'
 import { useCallback } from 'react';
 function CitySelect(props) {
   const [active, setActive] = useState('A')

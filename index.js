@@ -15,7 +15,7 @@ var _AppScroll = _interopRequireDefault(require("./component/AppScroll"));
 
 var _city = _interopRequireDefault(require("./city"));
 
-require("./style/common.scss");
+require("./style/common.css");
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
