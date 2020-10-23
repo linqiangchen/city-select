@@ -1,5 +1,5 @@
 {
-  "name": "city-select",
+  "name": "city-select-clq",
   "version": "1.0.0",
   "description": "城市选择",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/linqiangchen/citySelect.git"
+    "url": "git+https://github.com/linqiangchen/city-select.git"
   },
   "keywords": [
     "城市选择"
@@ -19,9 +19,9 @@
   "author": "陈林强",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/linqiangchen/citySelect/issues"
+    "url": "https://github.com/linqiangchen/city-select/issues"
   },
-  "homepage": "https://github.com/linqiangchen/citySelect#readme",
+  "homepage": "https://github.com/linqiangchen/city-select#readme",
   "dependencies": {
     "better-scroll": "^2.0.5",
     "react": "^17.0.1"
