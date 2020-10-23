@@ -1,0 +1,29 @@
+{
+  "name": "city-select",
+  "version": "1.0.0",
+  "description": "城市选择",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linqiangchen/citySelect.git"
+  },
+  "keywords": [
+    "城市选择"
+  ],
+  "author": "陈林强",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linqiangchen/citySelect/issues"
+  },
+  "homepage": "https://github.com/linqiangchen/citySelect#readme",
+  "dependencies": {
+    "better-scroll": "^2.0.5",
+    "react": "^17.0.1"
+  }
+}
